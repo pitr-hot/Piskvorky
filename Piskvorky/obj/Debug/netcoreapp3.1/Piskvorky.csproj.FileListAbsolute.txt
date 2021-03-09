@@ -1,0 +1,16 @@
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\bin\Debug\netcoreapp3.1\Piskvorky.exe
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\bin\Debug\netcoreapp3.1\Piskvorky.deps.json
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\bin\Debug\netcoreapp3.1\Piskvorky.runtimeconfig.json
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\bin\Debug\netcoreapp3.1\Piskvorky.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\bin\Debug\netcoreapp3.1\Piskvorky.dll
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\bin\Debug\netcoreapp3.1\Piskvorky.pdb
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.Hlavni_Okno.resources
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.Hraci_plocha.resources
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.dll
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.pdb
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Plocha\C#\Piskvorky\Piskvorky\obj\Debug\netcoreapp3.1\Piskvorky.csprojAssemblyReference.cache

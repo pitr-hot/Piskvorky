@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Plocha\\C#\\Piskvorky\\Piskvorky\\Piskvorky.csproj": {}
+    "C:\\Users\\hp\\Desktop\\GitLab\\Piskvorky\\Piskvorky\\Piskvorky.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Plocha\\C#\\Piskvorky\\Piskvorky\\Piskvorky.csproj": {
+    "C:\\Users\\hp\\Desktop\\GitLab\\Piskvorky\\Piskvorky\\Piskvorky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Plocha\\C#\\Piskvorky\\Piskvorky\\Piskvorky.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\GitLab\\Piskvorky\\Piskvorky\\Piskvorky.csproj",
         "projectName": "Piskvorky",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Plocha\\C#\\Piskvorky\\Piskvorky\\Piskvorky.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\GitLab\\Piskvorky\\Piskvorky\\Piskvorky.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Plocha\\C#\\Piskvorky\\Piskvorky\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\GitLab\\Piskvorky\\Piskvorky\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
